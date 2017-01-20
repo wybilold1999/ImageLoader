@@ -1,0 +1,1 @@
+加载图片的工具类，基于LruCache和DiskLruCache封装
