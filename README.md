@@ -1,3 +1,6 @@
+![screenshot](https://github.com/wybilold1999/ImageLoader/blob/master/screenshot/QQ%E5%9B%BE%E7%89%8720170124113237.jpg)
+
+
 加载图片的工具类，基于LruCache和DiskLruCache封装
 
 使用方式：
